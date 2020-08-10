@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-"""new print"""
-print('"Programming is like building a multilingual puzzle' , end='\n')
+x ='"Programming is like building a multilingual puzzle'
+print("{:s}".format(x), end='\n')
